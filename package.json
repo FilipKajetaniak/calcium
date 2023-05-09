@@ -1,0 +1,37 @@
+{
+  "name": "calcium",
+  "displayName": "Calcium",
+  "description": "Dark vscode color theme",
+  "publisher": "Feefoolec",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FilipKajetaniak/calcium"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "𝐂𝐚𝐥𝐜𝐢𝐮𝐦º❍｡⊹・ﾟ✧",
+        "uiTheme": "vs-dark",
+        "path": "./themes/calcium-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "purple",
+    "feefoolec",
+    "Feefoolec",
+    "calcium",
+    "Calcium",
+    "𝐂𝐚𝐥𝐜𝐢𝐮𝐦",
+    "𝐂𝐚𝐥𝐜𝐢𝐮𝐦º❍｡⊹・ﾟ✧"
+  ]
+}
